@@ -22,12 +22,12 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
- - Slick
- - Product management
- - API design
+ - Azure
+ - AWS
+ - Powershell
+ - C#
+ - Chef
+ - Octopus Deploy
  - Groovy
  - Spring MVC/Boot/Social
  - Gradle
