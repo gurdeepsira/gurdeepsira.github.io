@@ -94,10 +94,6 @@ speakerdeck:
       speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
       conference: W-JAX Conference, Munich 2017 (London 2017)
 
-#List of interesting Github repo/projects to include - optional
-github:
- - gurdeepsira/gurdeepsira.github.io
- - gurdeepsira/LA-Terraform
 
 #Stackoverflow flair is optional
 stackoverflow:
