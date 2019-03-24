@@ -1,6 +1,7 @@
 # Site settings
+title: Rob Hinds
 twitter_username: rob_hinds
-name: Gurdeep Sira
+name: Rob Hinds
 
 # Build settings
 markdown: kramdown
@@ -8,8 +9,10 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
+ - title: Blog
+   url: http://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/gurdeepsira
+   url: https://github.com/robhinds
  - title: StackOverflow
    url: http://stackoverflow.com/users/258813/rhinds
  - title: DZone
