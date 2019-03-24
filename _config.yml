@@ -94,7 +94,10 @@ speakerdeck:
       speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
       conference: W-JAX Conference, Munich 2017 (London 2017)
 
-
+github:
+ - robhinds/robhinds.github.io
+ - robhinds/ScaLambda
+ 
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: http://stackoverflow.com/users/258813/rhinds
