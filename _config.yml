@@ -97,7 +97,7 @@ speakerdeck:
 #List of interesting Github repo/projects to include - optional
 github:
  - gurdeepsira/gurdeepsira.github.io
- - robhinds/ScaLambda
+ - gurdeepsira/LA-Terraform
  - robhinds/opinionated-akka-http
  - robhinds/food2vec
  - robhinds/microservices
