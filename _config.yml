@@ -36,7 +36,6 @@ roles:
    end: Ongoing
    employer: Arup
    description: Currently hold responsibilities for managing a number of applications, ranging from On-Premises applications such as SharePoint and IIS web applications, to services hosted in Azure, using App Service, Functions, Schedulers and more. Where applicable, configuration is executed using tools such as Terraform, Packer and Octopus Deploy for automated deployments to IIS web applications. The same toolchain is also used to automate deployments of ASP.NET Applications, alongside New Relic or continuous APM monitoring. In addition, I am responsible for all administration and architecture of Azure applications, as well as Azure DevOps for automated builds and deployment of code.
-
 - title: Senior Engineer
    start: 2016
    end: 2017
