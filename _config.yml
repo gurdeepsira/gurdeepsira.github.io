@@ -9,10 +9,8 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://github.com/gurdeepsira
  - title: StackOverflow
    url: http://stackoverflow.com/users/258813/rhinds
  - title: DZone
@@ -22,32 +20,32 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
- - Java
- - JPA
- - SQL
- - REST
+ - Azure
+ - AWS
+ - TeamCity
+ - Git/GitHub
+ - Chef
+ - Octopus Deploy
+ - Azure DevOps
+ - Powershell
+ - C#
+ - IIS
+ - Kubernetes
  - Technical Architecture
- - Machine learning
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Senior IT Analyst
+   start: 2o14
    end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
+   employer: Arup
+   description: Currently hold partial responsibility for the Azure environment, comprising of Virtual Machines, App Services, functions, scheduler jobs, API management and more. I have worked on operationalising the Azure cloud environment for production usage across the form, thus working to keep cost down, and increase enterprise agility.
+I also administer and enforce security, using tools such as Keyvault, Security Center and RBAC for controlled access to Azure resources. The azure environment is administered using Terraform and Packer, alongside Azure DevOps to serve as a pipeline for automated releases.
+I have also implemented a DevOps pipeline for automated releases into the Azure environment, using Azure DevOps, Octopus Deploy and New Relic. This has led to quicker, more stable releases, and faster velocity and business agility.
+I am currently working on a large scale migration from all our On Premises datacentres to Azure and AWS in a multi cloud strategy, and using a mix of hosting and deployment models.
  - title: Senior Engineer
    start: 2016
    end: 2017
@@ -98,17 +96,7 @@ speakerdeck:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
-
+ - gurdeepsira/gurdeepsira.github.io
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: http://stackoverflow.com/users/258813/rhinds
