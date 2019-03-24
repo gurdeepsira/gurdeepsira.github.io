@@ -42,10 +42,7 @@ roles:
    start: 2o14
    end: Ongoing
    employer: Arup
-   description: Currently hold partial responsibility for the Azure environment, comprising of Virtual Machines, App Services, functions, scheduler jobs, API management and more. I have worked on operationalising the Azure cloud environment for production usage across the form, thus working to keep cost down, and increase enterprise agility.
-I also administer and enforce security, using tools such as Keyvault, Security Center and RBAC for controlled access to Azure resources. The azure environment is administered using Terraform and Packer, alongside Azure DevOps to serve as a pipeline for automated releases.
-I have also implemented a DevOps pipeline for automated releases into the Azure environment, using Azure DevOps, Octopus Deploy and New Relic. This has led to quicker, more stable releases, and faster velocity and business agility.
-I am currently working on a large scale migration from all our On Premises datacentres to Azure and AWS in a multi cloud strategy, and using a mix of hosting and deployment models.
+   description: Currently hold partial responsibility for the Azure environment, comprising of Virtual Machines, App Services, functions, scheduler jobs, API management and more. I have worked on operationalising the Azure cloud environment for production usage across the form, thus working to keep cost down, and increase enterprise agility. I also administer and enforce security, using tools such as Keyvault, Security Center and RBAC for controlled access to Azure resources. The azure environment is administered using Terraform and Packer, alongside Azure DevOps to serve as a pipeline for automated releases. I have also implemented a DevOps pipeline for automated releases into the Azure environment, using Azure DevOps, Octopus Deploy and New Relic. This has led to quicker, more stable releases, and faster velocity and business agility. I am currently working on a large scale migration from all our On Premises datacentres to Azure and AWS in a multi cloud strategy, and using a mix of hosting and deployment models.
  - title: Senior Engineer
    start: 2016
    end: 2017
