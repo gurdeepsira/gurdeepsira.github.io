@@ -9,10 +9,8 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://github.com/gurdeepsira
  - title: StackOverflow
    url: http://stackoverflow.com/users/258813/rhinds
  - title: DZone
@@ -28,25 +26,18 @@ skills:
  - C#
  - Chef
  - Octopus Deploy
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
- - Java
- - JPA
- - SQL
- - REST
- - Technical Architecture
- - Machine learning
+ - Terraform
 
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Senior IT Analyst
+   start: Jan 2014
    end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
+   employer: Arup
+   description: Currently hold responsibilities for managing a number of applications, ranging from On-Premises applications such as SharePoint and IIS web applications, to services hosted in Azure, using App Service, Functions, Schedulers and more. Where applicable, configuration is executed using tools such as Terraform, Packer and Octopus Deploy for automated deployments to IIS web applications. The same toolchain is also used to automate deployments of ASP.NET Applications, alongside New Relic or continuous APM monitoring. In addition, I am responsible for all administration and architecture of Azure applications, as well as Azure DevOps for automated builds and deployment of code.
+
+- title: Senior Engineer
    start: 2016
    end: 2017
    employer: Emerald Street Ventures
