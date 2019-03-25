@@ -43,12 +43,7 @@ roles:
    end: Ongoing
    employer: Arup
    description: Currently hold partial responsibility for the Azure environment, comprising of Virtual Machines, App Services, functions, scheduler jobs, API management and more. I have worked on operationalising the Azure cloud environment for production usage across the form, thus working to keep cost down, and increase enterprise agility. I also administer and enforce security, using tools such as Keyvault, Security Center and RBAC for controlled access to Azure resources. The azure environment is administered using Terraform and Packer, alongside Azure DevOps to serve as a pipeline for automated releases. I have also implemented a DevOps pipeline for automated releases into the Azure environment, using Azure DevOps, Octopus Deploy and New Relic. This has led to quicker, more stable releases, and faster velocity and business agility. I am currently working on a large scale migration from all our On Premises datacentres to Azure and AWS in a multi cloud strategy, and using a mix of hosting and deployment models.
- - title: Senior Engineer
-   start: 2016
-   end: 2017
-   employer: Content and Code
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
+ - title: SharePoint Support Engineer
    start: 2013
    end: 2014
    employer: Content and Code
@@ -56,10 +51,10 @@ roles:
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Bachelors
+   date: 2007
+   subject: Business and Management (Computing)
+   school: Brunel University
 
 #This section is optional (as is the image link below)
 coursera:
