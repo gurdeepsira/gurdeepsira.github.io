@@ -62,11 +62,10 @@ coursera:
    courses:
     - title: Moving to the cloud
       link: https://www.coursera.org/learn/cloud-computing-adoption/
-      date: September 16, 2013
-
+      date: 2019
     - title: DevOps Culture and Mindset
-    - link: https://www.coursera.org/account/accomplishments/records/SQ2RWSRJSJYG
-    - date: 2019
+      link: https://www.coursera.org/account/accomplishments/records/SQ2RWSRJSJYG
+      date: 2019
     
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
