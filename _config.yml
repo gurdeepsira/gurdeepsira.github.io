@@ -68,17 +68,6 @@ coursera:
       link: https://www.coursera.org/account/accomplishments/certificate/SQ2RWSRJSJYG
       date: 2019
     
-#This section is optional - embeds slideshows from speakerdeck
-# to get the speakerdeck ID copy the embed code and look for the data-it attribute
-speakerdeck:
-   profileurl: https://speakerdeck.com/robhinds
-   talks:
-    - title: Product Management for Engineers
-      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-      conference: API Conference, Berlin 2018
-    - title: Agile Machine Learning - from Theory to Production
-      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-      conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
 github:
@@ -93,11 +82,6 @@ intro: |
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>Powershell</strong>: My current role uses Powershell for the automation and administration of AWS/Azure cloud platforms.<br/><br/>
-   <strong>Azure</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others. <br/><br/>
-   <strong>AWS</strong> I have used Groovy as a language in production for ~4 years and I am familiar with many of the languages features (such as writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>) and quirks (such as <a target="_blank" href="https://dzone.com/articles/groovy-retrospective-an-addendum-memory-usage-perm">memory leak issues</a>). <br/><br/>
+   <strong>Azure</strong>: I am experienced in administration of Azure services, as well as configuring Azure for adoption (subscription, accounts, etc). <br/><br/>
+   <strong>AWS</strong> I have worked on AWS projects, where I have needed to configure various services as well udnertaking large scale migrations. <br/><br/>
    <strong>Terraform</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito, <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/05/serverless-with-aws-lambda-scala.html">Lambda</a> and its more recent <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/10/machine-learning-with-aws-scala.html">Machine Learning capabilities</a>.<br/><br/>
-   <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS, Backbone/Underscore/Require. More recently I have written React applications (primarily using the Create React App framework, and extending them)<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
-   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/AWS. <br/><br/>
-   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
-   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="http://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
