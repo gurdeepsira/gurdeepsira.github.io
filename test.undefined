@@ -1,0 +1,7 @@
+.editor-content {
+  display: none;
+}
+
+.cms-editor-active .editor-content {
+  display: block;
+}   
