@@ -88,4 +88,4 @@ additionalinfo: |
    <strong>Powershell</strong>: My current role uses Powershell for the automation and administration of AWS/Azure cloud platforms.<br/><br/>
    <strong>Azure</strong>: I am experienced in administration of Azure services, as well as configuring Azure for adoption (subscription, accounts, etc). <br/><br/>
    <strong>AWS</strong> I have worked on AWS projects, where I have needed to configure various services as well udnertaking large scale migrations. <br/><br/>
-   <strong>Terraform</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito, <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/05/serverless-with-aws-lambda-scala.html">Lambda</a> and its more recent <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/10/machine-learning-with-aws-scala.html">Machine Learning capabilities</a>.<br/><br/>
+   <strong>Terraform</strong>: I have moved towards a model for using Terraform for automated provisioning, and IaC principles. <br/>
