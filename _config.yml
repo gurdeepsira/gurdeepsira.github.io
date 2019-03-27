@@ -81,7 +81,7 @@ stackoverflow:
    flairimageurl: https://stackexchange.com/users/flair/15399.png
 
 intro: |
-  I am an engineer with 10 years experience working in technology. I have worked primarily as a web developer in ASP.NET and C#, and then SharePoint/Office 365. Along came Azure AD and Azure, and my journey started to learn Azure. AWS came next and DevOps was a good fit for me given my early dev background, and my understanding in Business Management principles such as Lean, which is where DevOps stems from. <br>
+  I am an engineer with 10 years experience working in technology. I have worked primarily as a web developer in ASP.NET and C#, and then SharePoint/Office 365. Along came Azure AD and Azure, and my journey started to learn Azure. AWS came next and DevOps was a good fit for me given my early dev background, and my understanding in Business Management principles such as Lean, which is where DevOps stems from. <br />
   This site and the accompanying GitHub repo has been built to showcase my skills and provide practical insight into my abilities and projects.
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
