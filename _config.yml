@@ -58,19 +58,12 @@ roles:
     employer: Core
     description: Responsible for administration of SharePoint Intranets.
 education:
-<<<<<<< HEAD
  - level: Bachelors
    date: 2007
    subject: Business and Management (Computing)
    school: Brunel University
 
 #This section is optional (as is the image link below)
-=======
-  - level: Bachelors
-    date: 1970-01-01 00:00:00
-    subject: Business and Management (Computing)
-    school: Brunel University
->>>>>>> cd4f1375bb515de08e7369b5abe08cb5d224175f
 coursera:
   profileurl: 'https://www.coursera.org/user/37e0c5068e547b5629351060286e2b16'
   courses:
@@ -89,7 +82,6 @@ coursera:
 github:
   - gurdeepsira/gurdeepsira.github.io
 stackoverflow:
-<<<<<<< HEAD
    profileurl: https://stackoverflow.com/users/32484/gurdeeps
    flairimageurl: https://stackexchange.com/users/flair/15399.png
 
@@ -100,28 +92,5 @@ intro: |
 additionalinfo: |
    <strong>Powershell</strong>: My current role uses Powershell for the automation and administration of AWS/Azure cloud platforms.<br/><br/>
    <strong>Azure</strong>: I am experienced in administration of Azure services, as well as configuring Azure for adoption (subscription, accounts, etc). <br/><br/>
-   <strong>AWS</strong> I have worked on AWS projects, where I have needed to configure various services as well udnertaking large scale migrations. <br/><br/>
+   <strong>AWS</strong>: I have worked on AWS projects, where I have needed to configure various services as well udnertaking large scale migrations. <br/><br/>
    <strong>Terraform</strong>: I have moved towards a way of working for using Terraform for automated provisioning, and IaC principles. <br/>
-=======
-  profileurl: 'https://stackoverflow.com/users/32484/gurdeeps'
-  flairimageurl: 'https://stackexchange.com/users/flair/15399.png'
-intro: >-
-  I am an engineer with 10 years experience working in technology. I have worked
-  primarily as a web developer in ASP.NET and C#, and then SharePoint/Office
-  365. Along came Azure AD and Azure, and my journey started to learn Azure. AWS
-  came next and DevOps was a good fit for me given my early dev background, and
-  my understanding in Business Management principles such as Lean, which is
-  where DevOps stems from. <br />This site and the accompanying GitHub repo has
-  been built to showcase my skills and provide practical insight into my
-  abilities and projects.
-additionalinfo: >-
-  <strong>Powershell</strong>: My current role uses Powershell for the
-  automation and administration of AWS/Azure cloud
-  platforms.<br/><br/><strong>Azure</strong>: I am experienced in administration
-  of Azure services, as well as configuring Azure for adoption (subscription,
-  accounts, etc). <br/><br/><strong>AWS</strong> I have worked on AWS projects,
-  where I have needed to configure various services as well udnertaking large
-  scale migrations. <br/><br/><strong>Terraform</strong>: I have moved towards a
-  model for using Terraform for automated provisioning, and IaC principles.
-  <br/>
->>>>>>> cd4f1375bb515de08e7369b5abe08cb5d224175f
