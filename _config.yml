@@ -53,7 +53,7 @@ roles:
 #Education is required
 education:
  - level: Bachelors
-   date: 2009
+   date: 2007
    subject: Business and Management (Computing)
    school: Brunel University
 
@@ -90,4 +90,4 @@ additionalinfo: |
    <strong>Powershell</strong>: My current role uses Powershell for the automation and administration of AWS/Azure cloud platforms.<br/><br/>
    <strong>Azure</strong>: I am experienced in administration of Azure services, as well as configuring Azure for adoption (subscription, accounts, etc). <br/><br/>
    <strong>AWS</strong> I have worked on AWS projects, where I have needed to configure various services as well udnertaking large scale migrations. <br/><br/>
-   <strong>Terraform</strong>: I have moved towards a model for using Terraform for automated provisioning, and IaC principles. <br/>
+   <strong>Terraform</strong>: I have moved towards a way of working for using Terraform for automated provisioning, and IaC principles. <br/>
