@@ -91,6 +91,6 @@ intro: |
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>Powershell</strong>: My current role uses Powershell for the automation and administration of AWS/Azure cloud platforms.<br/><br/>
-   <strong>Azure</strong>: I am experienced in administration of Azure services, as well as configuring Azure for adoption (subscription, accounts, etc). <br/><br/>
+   <strong>Azure</strong>: I am experienced in the administration of Azure services, such as App Services, Virtual Machines, AAD, VNETs, queues, event hubs and event grids. I also have experience in Azure preperation for adoption (subscription, accounts, etc). <br/><br/>
    <strong>AWS</strong>: I have worked on AWS projects, where I have needed to configure various services as well undertaking large scale migrations. <br/><br/>
    <strong>Terraform</strong>: I have moved towards a way of working for using Terraform for automated provisioning, and IaC principles. <br/>
