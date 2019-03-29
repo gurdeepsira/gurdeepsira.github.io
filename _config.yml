@@ -1,5 +1,5 @@
 title: Gurdeep Sira
-twitter_username: rob_hinds
+twitter_username:
 name: Gurdeep Sira
 markdown: kramdown
 primarylinks:
@@ -28,7 +28,7 @@ skills:
 blogfeed: 'https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json'
 roles:
   - title: Senior IT Analyst
-    start: 2o14
+    start: 2014
     end: Ongoing
     employer: Arup
     description: >-
@@ -92,5 +92,5 @@ intro: |
 additionalinfo: |
    <strong>Powershell</strong>: My current role uses Powershell for the automation and administration of AWS/Azure cloud platforms.<br/><br/>
    <strong>Azure</strong>: I am experienced in administration of Azure services, as well as configuring Azure for adoption (subscription, accounts, etc). <br/><br/>
-   <strong>AWS</strong>: I have worked on AWS projects, where I have needed to configure various services as well udnertaking large scale migrations. <br/><br/>
+   <strong>AWS</strong>: I have worked on AWS projects, where I have needed to configure various services as well undertaking large scale migrations. <br/><br/>
    <strong>Terraform</strong>: I have moved towards a way of working for using Terraform for automated provisioning, and IaC principles. <br/>
