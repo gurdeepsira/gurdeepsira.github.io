@@ -63,6 +63,9 @@ education:
    subject: Business and Management (Computing)
    school: Brunel University
 
+links:
+  link:https://xxx
+  
 #This section is optional (as is the image link below)
 coursera:
   profileurl: 'https://www.coursera.org/user/37e0c5068e547b5629351060286e2b16'
