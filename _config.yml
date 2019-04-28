@@ -5,12 +5,10 @@ markdown: kramdown
 primarylinks:
   - title: GitHub
     url: 'https://github.com/gurdeepsira'
-  - title: StackOverflow
-    url:
-  - title: DZone
-    url: 'https://www.linkedin.com/in/gurdip-sira-70384b5/'
   - title: LinkedIn
-    url: 'https://www.linkedin.com/pub/rob-hinds/21/361/3b1'
+    url: 'https://www.linkedin.com/in/gurdip-sira-70384b5/'
+  - title: DevOps Strategy Considerations
+    url: 'https://github.com/gurdeepsira/gurdeepsira.github.io/blob/master/img/DevOps%20Strategy%20Considerations.png'
 skills:
   - Azure
   - AWS
