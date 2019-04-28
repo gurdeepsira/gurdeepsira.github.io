@@ -23,7 +23,8 @@ skills:
   - Kubernetes
   - DevOps Culture
   - Technical Architecture
-blogfeed: 'https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json'
+
+
 roles:
   - title: Senior IT Analyst
     start: 2014
