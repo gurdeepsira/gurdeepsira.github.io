@@ -68,14 +68,7 @@ education:
 links:
 - link: https://github.com/gurdeepsira/gurdeepsira.github.io/blob/master/img/DevOps%20Strategy%20Considerations.png
   
-certifacations:
-  cert: AWS Solution Architecture Associate
-  cert: Azure Architecture 70-535
-  cert: DevOps Institute DevOps Foundations
-  cert: Site Reliability Engineering
-  cert: DevOps Culture and Mindset
-  cert: ITIL Foundation v3
-  cert: BCS Agile Foundations
+
 
 #This section is optional (as is the image link below)
 coursera:
@@ -106,13 +99,15 @@ intro: |
   <br> 
   <br> 
   
-  AWS Solution Architecture Associate
-  cert: Azure Architecture 70-535
-  cert: DevOps Institute DevOps Foundations
-  cert: Site Reliability Engineering
-  cert: DevOps Culture and Mindset
-  cert: ITIL Foundation v3
-  cert: BCS Agile Foundations
+  AWS Solution Architecture Associate  <br>
+  Azure Architecture 70-535  <br>
+  DevOps Institute DevOps Foundations  <br>
+  CoursEraSite Reliability Engineering  <br>
+  DevOps Culture and Mindset  <br>
+  ITIL Foundation v3  <br>
+  BCS Agile Foundations  <br>
+  Architecting Cloud Applications
+  
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>Powershell</strong>: My current role uses Powershell for the automation and administration of AWS/Azure cloud platforms.<br/><br/>
